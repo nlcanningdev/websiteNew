@@ -6,9 +6,9 @@ Experience other people's creations, and share your own in turn.
 
 
 
-Distinguishing Technical Features: Dungeon has a simple lighting system. Lighting and shadows are entirely baked into areas and are per triangle of geometry. Dynamic objects such as characters and other moveable objects don't cast any
+Distinguishing Technical Features: Dungeon has a simple lighting system. Lighting and shadows are entirely baked into areas and are per triangle of geometry. Dynamic objects such as characters and other moveable objects don't cast any shadows and their lighting depends on their location against the baked-in lighting.
 
-shadows and their lighting depends on their location against the baked-in lighting.
+If feasible, include hair and clothing physics.
 
 
 
