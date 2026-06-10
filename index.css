@@ -1,0 +1,12 @@
+html {
+    scrollbar-width: none;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-size: 1rem;
+}
